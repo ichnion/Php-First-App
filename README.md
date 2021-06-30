@@ -1,5 +1,5 @@
 # Php-First-App
-
+------------------------------------------------------------------------------------------------------------------------------------------
 This app is an experiment to create an user-friendly Ichnion app, particularly for users who are not comfortable with Command Line Tools. 
 It is made using php Desktop : https://github.com/cztomczak/phpdesktop
 ------------------------------------------------------------------------------------------------------------------------------------------
