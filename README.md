@@ -4,6 +4,7 @@ This app is an experiment to create an user-friendly Ichnion app, particularly f
 It is made using php Desktop : https://github.com/cztomczak/phpdesktop
 ------------------------------------------------------------------------------------------------------------------------------------------
 PLEASE NOTE THAT THIS VERSION ONLY WORKS ON WINDOWS. 
+A Linux version should easily be done. However, there is not yet PhP Desktop for Mac. 
 
 # How to try it and contribute? 
 
