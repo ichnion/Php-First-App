@@ -1,0 +1,514 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>Contact Form 10</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="css/A.style.css.pagespeed.cf.1tIFcJt0BJ.css">
+</head>
+<body>
+<div class="center">
+    <h1>Here is your data !</h1>
+    <table>
+    <tr>
+        <td>time</td>   
+        <td>name</td>
+        <td>latitude</td>
+        <td>longitude</td>
+   </tr>
+    
+    <br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32321</td><td>5.0483</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32725</td><td>5.04726</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32439</td><td>5.04843</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32333</td><td>5.04861</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32359</td><td>5.04809</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32311</td><td>5.04191</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32309</td><td>5.04192</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32352</td><td>5.04785</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.3214</td><td>5.048</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32373</td><td>5.04794</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32296</td><td>5.04191</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32377</td><td>5.04936</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32421</td><td>5.0488</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32323</td><td>5.04214</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32309</td><td>5.04193</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32332</td><td>5.04862</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32549</td><td>5.04003</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32388</td><td>5.04107</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32311</td><td>5.04208</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32438</td><td>5.0486</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32326</td><td>5.04212</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32304</td><td>5.04187</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32327</td><td>5.04165</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32307</td><td>5.04184</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32126</td><td>5.0413</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.31902</td><td>5.03743</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Corgoloin</td><td>47.07512</td><td>4.91348</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05557</td><td>4.77039</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05562</td><td>4.7704</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Flagey-ÃchÃ©zeaux</td><td>47.15299</td><td>4.98745</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05558</td><td>4.77034</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Perrigny-LÃ¨s-Dijon</td><td>47.26812</td><td>5.0096</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32332</td><td>5.04231</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.3145</td><td>5.06665</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.06504</td><td>4.81404</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.0557</td><td>4.77034</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.0556</td><td>4.77034</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05562</td><td>4.77042</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05556</td><td>4.77033</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>AmbÃ©rieu-en-Bugey</td><td>45.95652</td><td>5.35783</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Cran-GÃ©vrier</td><td>45.90784</td><td>6.10725</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>La Clusaz</td><td>45.90707</td><td>6.42704</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>AmbÃ©rieu-en-Bugey</td><td>45.95668</td><td>5.35749</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Montpellier</td><td>43.60503</td><td>3.87938</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Montpellier</td><td>43.60494</td><td>3.87945</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Montpellier</td><td>43.60486</td><td>3.87954</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Sainte-Maxime</td><td>43.3076</td><td>6.64115</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Saint-RaphaÃ«l</td><td>43.42158</td><td>6.76851</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>AmbÃ©rieu-en-Bugey</td><td>45.9566</td><td>5.35776</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Viriat</td><td>46.25959</td><td>5.19484</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>ConfranÃ§on</td><td>46.27067</td><td>5.06077</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Chagny</td><td>46.89534</td><td>4.75224</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05584</td><td>4.77043</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05558</td><td>4.7704</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Beaune</td><td>47.01809</td><td>4.80764</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05572</td><td>4.77038</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Beaune</td><td>47.00878</td><td>4.84477</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.06497</td><td>4.81399</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.06497</td><td>4.81399</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Beaune</td><td>47.02299</td><td>4.8606</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Chalon-sur-SaÃ´ne</td><td>46.78164</td><td>4.85768</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Chagny</td><td>46.90719</td><td>4.75373</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05558</td><td>4.77035</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.06499</td><td>4.81401</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05576</td><td>4.77049</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32303</td><td>5.04198</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32306</td><td>5.04206</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32321</td><td>5.04206</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Levernois</td><td>46.99652</td><td>4.8697</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05579</td><td>4.7704</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Beaune</td><td>47.03065</td><td>4.83887</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32385</td><td>5.04806</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32306</td><td>5.04313</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32315</td><td>5.04201</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32318</td><td>5.04207</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32306</td><td>5.04218</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32306</td><td>5.04185</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32304</td><td>5.04209</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32312</td><td>5.04211</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32278</td><td>5.04153</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32449</td><td>5.04768</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32307</td><td>5.04203</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05577</td><td>4.77039</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05584</td><td>4.77038</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32486</td><td>5.04126</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32314</td><td>5.04204</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32379</td><td>5.04806</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32364</td><td>5.04791</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32474</td><td>5.04131</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Corgoloin</td><td>47.08204</td><td>4.93047</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05571</td><td>4.77037</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05556</td><td>4.77021</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.3236</td><td>5.04976</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32331</td><td>5.0483</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32317</td><td>5.0421</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32316</td><td>5.04204</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32233</td><td>5.03898</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32325</td><td>5.04215</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32399</td><td>5.04141</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32313</td><td>5.04203</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Gevrey-Chambertin</td><td>47.23146</td><td>5.01701</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Beaune</td><td>47.0412</td><td>4.84983</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05632</td><td>4.83445</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05564</td><td>4.77013</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Ciel (SaÃ´ne-et-Loire)</td><td>46.88952</td><td>5.06211</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.06499</td><td>4.81403</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05556</td><td>4.77022</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Beaune</td><td>47.01771</td><td>4.83415</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05572</td><td>4.77033</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Beaune</td><td>47.02313</td><td>4.84833</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32273</td><td>5.02638</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32319</td><td>5.042</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05584</td><td>4.77044</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05576</td><td>4.77037</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05575</td><td>4.77032</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.0558</td><td>4.77035</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05561</td><td>4.77023</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32847</td><td>5.06537</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Beaune</td><td>47.02316</td><td>4.84867</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05574</td><td>4.77049</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05594</td><td>4.77043</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05563</td><td>4.77027</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Aloxe-Corton</td><td>47.06499</td><td>4.86199</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.32394</td><td>5.07335</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.30872</td><td>5.07811</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05583</td><td>4.77033</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Ciel (SaÃ´ne-et-Loire)</td><td>46.88952</td><td>5.06212</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05571</td><td>4.77035</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05562</td><td>4.77032</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Annecy</td><td>45.90162</td><td>6.12283</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05581</td><td>4.77036</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05565</td><td>4.77035</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Dijon</td><td>47.33914</td><td>5.06614</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05572</td><td>4.77036</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05565</td><td>4.77046</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05568</td><td>4.77037</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Perrigny-LÃ¨s-Dijon</td><td>47.26816</td><td>5.00962</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>AmbÃ©rieu-en-Bugey</td><td>45.95659</td><td>5.3578</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>AmbÃ©rieu-en-Bugey</td><td>45.9547</td><td>5.35356</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Lus-la-Croix-Haute</td><td>44.71315</td><td>5.67787</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>GrÃ©oux-les-Bains</td><td>43.76243</td><td>5.88839</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>GrÃ©oux-les-Bains</td><td>43.76234</td><td>5.88832</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>GrÃ©oux-les-Bains</td><td>43.76216</td><td>5.88848</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>GrÃ©oux-les-Bains</td><td>43.76225</td><td>5.88841</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Saint-RaphaÃ«l</td><td>43.44816</td><td>6.7928</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Saint-RaphaÃ«l</td><td>43.44794</td><td>6.79278</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Saint-RaphaÃ«l</td><td>43.4243</td><td>6.76438</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>FrÃ©jus</td><td>43.43256</td><td>6.73534</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Saint-RaphaÃ«l</td><td>43.44805</td><td>6.79266</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Saint-RaphaÃ«l</td><td>43.44784</td><td>6.79269</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Saint-RaphaÃ«l</td><td>43.42545</td><td>6.76901</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Saint-RaphaÃ«l</td><td>43.42172</td><td>6.76856</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Saint-RaphaÃ«l</td><td>43.44815</td><td>6.79299</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Saint-RaphaÃ«l</td><td>43.42556</td><td>6.76987</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Saint-RaphaÃ«l</td><td>43.44826</td><td>6.79298</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Saint-RaphaÃ«l</td><td>43.44808</td><td>6.79257</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Sainte-Maxime</td><td>43.30757</td><td>6.64123</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Saint-RaphaÃ«l</td><td>43.44807</td><td>6.79281</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Saint-RaphaÃ«l</td><td>43.44788</td><td>6.7929</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Saint-RaphaÃ«l</td><td>43.44903</td><td>6.7934</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Saint-RaphaÃ«l</td><td>43.41449</td><td>6.80723</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Saint-RaphaÃ«l</td><td>43.44812</td><td>6.79271</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Saint-RaphaÃ«l</td><td>43.42538</td><td>6.76974</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Saint-RaphaÃ«l</td><td>43.44831</td><td>6.79296</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Saint-RaphaÃ«l</td><td>43.44817</td><td>6.79287</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Saint-RaphaÃ«l</td><td>43.44801</td><td>6.79275</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Saint-RaphaÃ«l</td><td>43.42594</td><td>6.77244</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Saint-RaphaÃ«l</td><td>43.44807</td><td>6.79276</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Saint-RaphaÃ«l</td><td>43.44779</td><td>6.7926</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Montpellier</td><td>43.60556</td><td>3.87105</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Montpellier</td><td>43.60557</td><td>3.871</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Montpellier</td><td>43.60189</td><td>3.87134</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>AmbÃ©rieu-en-Bugey</td><td>45.9566</td><td>5.35777</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>AmbÃ©rieu-en-Bugey</td><td>45.95651</td><td>5.35781</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>AmbÃ©rieu-en-Bugey</td><td>45.95667</td><td>5.35769</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>AmbÃ©rieu-en-Bugey</td><td>45.95662</td><td>5.35762</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>AmbÃ©rieu-en-Bugey</td><td>45.95651</td><td>5.3578</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05566</td><td>4.77039</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Beaune</td><td>47.041</td><td>4.84686</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05583</td><td>4.77033</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05561</td><td>4.77036</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05575</td><td>4.77037</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.0556</td><td>4.7703</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05562</td><td>4.77032</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05569</td><td>4.77045</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.0556</td><td>4.77028</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.0557</td><td>4.77026</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05557</td><td>4.77028</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05559</td><td>4.77041</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.0557</td><td>4.77036</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.06506</td><td>4.81408</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.06508</td><td>4.81408</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.0556</td><td>4.77024</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.0557</td><td>4.7703</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Ciel (SaÃ´ne-et-Loire)</td><td>46.8895</td><td>5.06208</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.0557</td><td>4.77037</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05587</td><td>4.77033</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05556</td><td>4.77037</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05567</td><td>4.77047</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.05579</td><td>4.77036</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Savigny-LÃ¨s-Beaune</td><td>47.0558</td><td>4.77028</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Beaune</td><td>47.03325</td><td>4.82752</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Beaune</td><td>47.03715</td><td>4.82789</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Beaune</td><td>47.03658</td><td>4.83303</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Beaune</td><td>47.0382</td><td>4.83761</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Corgoloin</td><td>47.05454</td><td>4.92163</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Foucherans</td><td>47.07805</td><td>5.43579</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Damparis</td><td>47.07577</td><td>5.43736</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Choisey</td><td>47.07271</td><td>5.43857</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Rahon</td><td>47.00917</td><td>5.47853</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Bersaillin</td><td>46.84421</td><td>5.56386</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Arlay</td><td>46.7723</td><td>5.51658</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Ruffey-sur-Seille</td><td>46.74146</td><td>5.50868</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Le Miroir (SaÃ´ne-et-Loire)</td><td>46.52396</td><td>5.31276</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Beaupont</td><td>46.40046</td><td>5.27461</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Villemotier</td><td>46.36244</td><td>5.28416</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Saint-Ãtienne-Du-Bois</td><td>46.27838</td><td>5.24194</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Jasseron</td><td>46.19882</td><td>5.29564</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Montagnat</td><td>46.17186</td><td>5.30323</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Montagnat</td><td>46.16909</td><td>5.30202</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>Montagnat</td><td>46.16405</td><td>5.29872</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>AmbÃ©rieu-en-Bugey</td><td>45.95676</td><td>5.35763</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>ChÃ¢teau-Gaillard (Ain)</td><td>45.97557</td><td>5.32545</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>AmbÃ©rieu-en-Bugey</td><td>45.96828</td><td>5.36356</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>AmbÃ©rieu-en-Bugey</td><td>45.95649</td><td>5.35806</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>AmbÃ©rieu-en-Bugey</td><td>45.95659</td><td>5.35772</td></tr><br />
+<b>Notice</b>:  Undefined offset: 0 in <b>H:\Desktop\first-php-app\phpdesktop-chrome-57.0-rc-php-7.1.3\www\php\visualize.php</b> on line <b>30</b><br />
+<tr><td></td><td>AmbÃ©rieu-en-Bugey</td><td>45.95659</td><td>5.35772</td></tr>        </table>
+</div>
+</body>
+<style>
+    @import url("https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@600&display=swap");
+table {
+        border-spacing: 50px 8px; /* Nombre de pixels d'espace horizontal (5px), vertical (8px) */
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(45deg, greenyellow, dodgerblue);
+  font-family: "Sansita Swashed", cursive;
+}
+.center {
+  position: relative;
+  padding: 50px 50px;
+  background: #fff;
+  border-radius: 10px;
+}
+.center h1 {
+  font-size: 2em;
+  border-left: 5px solid dodgerblue;
+  padding: 10px;
+  color: #000;
+  letter-spacing: 5px;
+  margin-bottom: 60px;
+  font-weight: bold;
+  padding-left: 10px;
+}
+
+
+    </style>
+</html>

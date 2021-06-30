@@ -1,0 +1,37 @@
+<html>
+<head>
+  <title>A Leaflet map!</title>
+   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+   integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+   crossorigin=""></script>
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="leaflet-heat.js"></script>
+  <style>
+    #map{ height: 100% }
+  </style>
+</head>
+<body>
+ 
+  <div id="map"></div>
+ 
+  <script>
+ 
+  // initialize the map
+  var map = L.map('map').setView([35.689487, 139.691711], 9);
+ 
+  // load a tile layer
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+    for (var iter = 0; iter < 50; iter++) {
+    var heat = L.heatLayer([
+	[35.689487, 139.691711],
+    [35.689487, 139.6918]
+], {radius: 25}).addTo(map);
+    }
+  </script>
+</body>
+</html>
